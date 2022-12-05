@@ -1,3 +1,6 @@
 #!/bin/bash
-echo -e "Hello, World\n"
+
+# Print "Hello, World" followed by a dollar sign to the standard output
+echo -e "Hello, World\$"
+
 
